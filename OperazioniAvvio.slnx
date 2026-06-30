@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="NuGet.config" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/OperazioniAvvio.BusinessLayer/OperazioniAvvio.BusinessLayer.csproj" Id="80b8e569-30bb-4944-aeaa-055097406b46" />
+  <Project Path="src/OperazioniAvvio.DataAccessLayer/OperazioniAvvio.DataAccessLayer.csproj" Id="62b41be0-3c66-4a46-9977-cce2205ca340" />
+  <Project Path="src/OperazioniAvvio/OperazioniAvvio.Api.csproj" />
+</Solution>
