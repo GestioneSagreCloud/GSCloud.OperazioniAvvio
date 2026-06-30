@@ -1,0 +1,10 @@
+﻿global using AppEngine.EFCore.Repositories.Interfaces;
+global using AppEngine.EFCore.UoW.Interfaces;
+global using AppEngine.Tools.OperationResults;
+global using FluentValidation;
+global using Microsoft.Extensions.Logging;
+global using OperazioniAvvio.BusinessLayer.Models.Festa;
+global using OperazioniAvvio.BusinessLayer.Models.Impostazione;
+global using OperazioniAvvio.BusinessLayer.Models.Intestazione;
+global using OperazioniAvvio.BusinessLayer.Services.Interfaces;
+global using OperazioniAvvio.DataAccessLayer.Entities;
